@@ -13,9 +13,10 @@ This repository contains my solutions to various coding challenges on HKR. These
 
 # Java
 
-|        Skills        |    Difficulty    |          Challenge           |           Solution           |
-|----------------------|------------------|------------------------------|------------------------------|
-|     Java (Basic)     |      Easy      | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [solution.java]() |
+|        Skills        |          Challenge           |           Solution           |
+|----------------------|------------------------------|------------------------------|
+|     Java (Basic)     | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [solution.java](https://github.com/punyawatdev/hkr-solutions/blob/main/Java/Java%20(Basic)/Java%20BigInteger/solution.java) |
+|     Java (Basic)     | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [solution.java](https://github.com/punyawatdev/hkr-solutions/blob/main/Java/Java%20(Basic)/Java%20BigDecimal/solution.java) |
 
 <br />
 <br />
