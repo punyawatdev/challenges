@@ -33,7 +33,7 @@ This repository contains my solutions to various coding challenges on HKR. These
 
 |        Subdomain        |          Challenge           |           Solution           |
 |-------------------------|------------------------------|------------------------------|
-|      Implementation       | [Lisa's Workbook](https://www.hackerrank.com/challenges/Lisa-workbook/problem) | [solution.ts]() |
+|      Implementation       | [Lisa's Workbook](https://www.hackerrank.com/challenges/Lisa-workbook/problem) | [solution.ts](https://github.com/punyawatdev/hkr-solutions/blob/main/Problem%20Solving/Implementation/Lisa's%20Workbook/solution.ts) |
 
 <br />
 <br />
