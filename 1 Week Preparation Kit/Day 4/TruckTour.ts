@@ -1,6 +1,5 @@
 'use strict';
 
-import { count } from "console";
 import { PathLike, WriteStream, createWriteStream } from "fs";
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
