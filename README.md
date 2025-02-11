@@ -60,7 +60,7 @@ This repository contains my solutions to various coding challenges on HKR. These
 |    4    | [Recursive Digit Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum/problem) | [RecursiveDigitSum.ts](https://github.com/punyawatdev/hkr-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%204/RecursiveDigitSum.ts) |
 |    4    | [New Year Chaos](https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos/problem) | [NewYearChaos.ts](https://github.com/punyawatdev/hkr-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%204/NewYearChaos.ts) |
 |    4    | [Truck Tour](https://www.hackerrank.com/challenges/truck-tour/problem) | [TruckTour.ts](https://github.com/punyawatdev/hkr-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%204/TruckTour.ts) |
-|    5    | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) | [TruckTour.ts](https://github.com/punyawatdev/hkr-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%205/MergeTwoSortedLinkedLists.ts) |
+|    5    | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) | [MergeTwoSortedLinkedLists.ts](https://github.com/punyawatdev/hkr-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%205/MergeTwoSortedLinkedLists.ts) |
 
 <br />
 <br />
