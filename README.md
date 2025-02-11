@@ -1,6 +1,6 @@
-# HKR Solutions
+# Problem Solutions
 
-This repository contains my solutions to various coding challenges on HKR. These solutions are written in TypeScript, Java and Python. I only select challenges relevant to the HKR Certification Test.
+This repository contains my solutions to various coding challenges. These solutions are written in TypeScript, Java and Python.
 
 - [Java](#java) 
 - [Problem Solving](#problem-solving) 
