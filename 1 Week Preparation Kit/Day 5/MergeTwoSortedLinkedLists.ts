@@ -92,36 +92,34 @@ function mergeLists(head1: SinglyLinkedListNode | null, head2: SinglyLinkedListN
 }
 
 function main() {
-    function main() {
-        const ws: WriteStream = createWriteStream(process.env['OUTPUT_PATH'] as PathLike);
+    const ws: WriteStream = createWriteStream(process.env['OUTPUT_PATH'] as PathLike);
 
-        const tests = parseInt(readLine(), 10);
+    const tests = parseInt(readLine(), 10);
 
-        for (let testsItr = 0; testsItr < tests; testsItr++) {
-            const llist1Count = parseInt(readLine(), 10);
+    for (let testsItr = 0; testsItr < tests; testsItr++) {
+        const llist1Count = parseInt(readLine(), 10);
 
-            let llist1 = new SinglyLinkedList();
+        let llist1 = new SinglyLinkedList();
 
-            for (let i = 0; i < llist1Count; i++) {
-                const llist1Item = parseInt(readLine(), 10);
-                llist1.insertNode(llist1Item);
-            }
-
-            const llist2Count = parseInt(readLine(), 10);
-
-            let llist2 = new SinglyLinkedList();
-
-            for (let i = 0; i < llist2Count; i++) {
-                const llist2Item = parseInt(readLine(), 10);
-                llist2.insertNode(llist2Item);
-            }
-
-            let llist3 = mergeLists(llist1.head, llist2.head);
-
-            printSinglyLinkedList(llist3, " ", ws)
-            ws.write("\n");
+        for (let i = 0; i < llist1Count; i++) {
+            const llist1Item = parseInt(readLine(), 10);
+            llist1.insertNode(llist1Item);
         }
 
-        ws.end();
+        const llist2Count = parseInt(readLine(), 10);
+
+        let llist2 = new SinglyLinkedList();
+
+        for (let i = 0; i < llist2Count; i++) {
+            const llist2Item = parseInt(readLine(), 10);
+            llist2.insertNode(llist2Item);
+        }
+
+        let llist3 = mergeLists(llist1.head, llist2.head);
+
+        printSinglyLinkedList(llist3, " ", ws)
+        ws.write("\n");
     }
+
+    ws.end();
 }
