@@ -33,8 +33,8 @@ This repository contains my solutions to various coding challenges. These soluti
 
 |          Skills          |          Challenge           |           Solution           |
 |--------------------------|------------------------------|------------------------------|
-|      Problem Solving (Basic)       | [Lisa's Workbook](https://www.hackerrank.com/challenges/Lisa-workbook/problem) | [solution.ts](https://github.com/punyawatdev/problem-solutions/blob/main/Problem%20Solving/Basic/Lisa's%20Workbook/solution.ts) |
-|      Problem Solving (Basic)       | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [solution.ts](https://github.com/punyawatdev/problem-solutions/blob/main/Problem%20Solving/Basic/Climbing%20the%20Leaderboard/solution.ts) |
+|      Problem Solving (Basic)       | [Lisa's Workbook](https://www.hackerrank.com/challenges/Lisa-workbook/problem) | [climbingLeaderboard.ts](https://github.com/punyawatdev/problem-solutions/blob/main/Problem%20Solving/Basic/Lisa's%20Workbook/climbingLeaderboard.ts) |
+|      Problem Solving (Basic)       | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [workbook.ts](https://github.com/punyawatdev/problem-solutions/blob/main/Problem%20Solving/Basic/Climbing%20the%20Leaderboard/workbook.ts) |
 
 <br />
 <br />
