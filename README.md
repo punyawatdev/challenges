@@ -52,7 +52,7 @@ This repository contains my solutions to various coding challenges. These soluti
 |    2    | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [DiagonalDifference.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%202/DiagonalDifference.ts) |
 |    2    | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | [CountingSort1.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%202/CountingSort1.ts) |
 |    2    | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) | [FlippingTheMatrix.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%202/FlippingTheMatrix.ts) |
-|    3    | [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | [ZigZagSequence.py](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%203/ZigZagSequence.ts) |
+|    3    | [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence/problem) | [ZigZagSequence.py](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%203/ZigZagSequence.py) |
 |    3    | [Tower Breakers](https://www.hackerrank.com/challenges/tower-breakers-1/problem) | [TowerBreakers.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%203/TowerBreakers.ts) |
 |    3    | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | [CaesarCipher.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%203/CaesarCipher.ts) |
 |    3    | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem) | [PalindromeIndex.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%203/PalindromeIndex.ts) |
@@ -64,7 +64,9 @@ This repository contains my solutions to various coding challenges. These soluti
 |    5    | [QueueTwoStacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) | [QueueTwoStacks.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%205/QueueTwoStacks.ts) |
 |    5    | [BalancedBrackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [BalancedBrackets.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%205/BalancedBrackets.ts) |
 |    5    | [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | [Pairs.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%205/Pairs.ts) |
-
+|    6    | [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | [SimpleTextEditor.ts](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%206/SimpleTextEditor.ts) |
+|    6    | [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks/problem) | [LegoBlocks.py](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%206/LegoBlocks.py) |
+|    6    | [Jesse and Cookies](https://www.hackerrank.com/challenges/jesse-and-cookies/problem) | [JesseAndCookies.py](https://github.com/punyawatdev/problem-solutions/blob/main/1%20Week%20Preparation%20Kit/Day%206/JesseAndCookies.py) |
 
 
 <br />
