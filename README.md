@@ -5,6 +5,7 @@ This repository contains my solutions to various coding challenges. These soluti
 - [Java](#java) 
 - [Problem Solving](#problem-solving) 
 - [1 Week Preparation Kit](#1-week-preparation-kit)
+- [Interview Preparation Kit](#interview-preparation-kit)
 
 
 <br />
@@ -75,8 +76,19 @@ This repository contains my solutions to various coding challenges. These soluti
 <br />
 <br />
 
+# Interview Preparation Kit
+
+|   Subject   |          Challenge           |           Solution           |
+|-------------|------------------------------|------------------------------|
+|    Arrays    | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [ArraysLeftRotation.ts](https://github.com/punyawatdev/challenges/blob/main/InterviewPreparationKit/Arrays/ArraysLeftRotation.ts) |
+|    Arrays    | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [HourglassSum.ts](https://github.com/punyawatdev/challenges/blob/main/InterviewPreparationKit/Arrays/HourglassSum.ts) |
+|    Warm-up    | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [JumpingOnClouds.ts](https://github.com/punyawatdev/challenges/blob/main/InterviewPreparationKit/Warm-up/JumpingOnClouds.ts) |
+|    Warm-up    | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [CountingValleys.ts](https://github.com/punyawatdev/challenges/blob/main/InterviewPreparationKit/Warm-up/CountingValleys.ts) |
+
+<br />
+<br />
 
 # Others
 
- - [FibonacciSequence.ts](https://github.com/punyawatdev/challenges/blob/main/Others/FibonacciSequence.ts) 
- - [FrequencySort.ts](https://github.com/punyawatdev/challenges/blob/main/Others/FrequencySort.ts) 
+ - [FibonacciSequence.ts](https://github.com/punyawatdev/challenges/blob/main/Others/FibonacciSequence.ts)
+ - [FrequencySort.ts](https://github.com/punyawatdev/challenges/blob/main/Others/FrequencySort.ts)
