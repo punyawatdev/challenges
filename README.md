@@ -1,45 +1,13 @@
 # Challenges
 
-This repository contains my solutions to various coding challenges. These solutions are written in TypeScript, Java and Python.
+This repository contains my solutions to various coding challenges. These solutions are written in TypeScript, Java, Go and Python.
 
-- [Java](#java) 
-- [Problem Solving](#problem-solving) 
 - [1 Week Preparation Kit](#1-week-preparation-kit)
 - [Interview Preparation Kit](#interview-preparation-kit)
 
 
 <br />
 <br />
-
-
-# Java
-
-|        Skills        |          Challenge           |           Solution           |
-|----------------------|------------------------------|------------------------------|
-|     Java (Basic)     | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [solution.java](https://github.com/punyawatdev/challenges/blob/main/Java/Java(Basic)/JavaBigInteger/solution.java) |
-|     Java (Basic)     | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | [solution.java](https://github.com/punyawatdev/challenges/blob/main/Java/Java(Basic)/JavaBigDecimal/solution.java) |
-|     Java (Basic)     | [Java Regex 2 Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | [solution.java](https://github.com/punyawatdev/challenges/blob/main/Java/Java(Basic)/JavaRegex2DuplicateWords/solution.java) |
-|     Java (Basic)     | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | [solution.java](https://github.com/punyawatdev/challenges/blob/main/Java/Java(Basic)/TagContentExtractor/solution.java) |
-|     Java (Basic)     | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem) | [solution.java](https://github.com/punyawatdev/challenges/blob/main/Java/Java(Basic)/Java1DArray(Part2)/solution.java) |
-|     Java (Basic)     | [Java Stack](https://www.hackerrank.com/challenges/java-stack/problem) | [solution.java](https://github.com/punyawatdev/challenges/blob/main/Java/Java(Basic)/JavaStack/solution.java) |
-|     Java (Basic)     | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) | [solution.java](https://github.com/punyawatdev/challenges/blob/main/Java/Java(Basic)/JavaComparator/solution.java) |
-|     Java (Basic)     | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem) | [solution.java](https://github.com/punyawatdev/challenges/blob/main/Java/Java(Basic)/PrimeChecker/solution.java) |
-|     Java (Intermediate)     | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | [solution.java](https://github.com/punyawatdev/challenges/blob/main/Java/Java(Intermediate)/JavaRegex/solution.java) |
-
-<br />
-<br />
-
-
-# Problem Solving
-
-|          Skills          |          Challenge           |           Solution           |
-|--------------------------|------------------------------|------------------------------|
-|      Problem Solving (Basic)       | [Lisa's Workbook](https://www.hackerrank.com/challenges/Lisa-workbook/problem) | [climbingLeaderboard.ts](https://github.com/punyawatdev/challenges/blob/main/ProblemSolving/Basic/Lisa'sWorkbook/climbingLeaderboard.ts) |
-|      Problem Solving (Basic)       | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [workbook.ts](https://github.com/punyawatdev/challenges/blob/main/ProblemSolving/Basic/ClimbingTheLeaderboard/workbook.ts) |
-
-<br />
-<br />
-
 
 # 1 Week Preparation Kit
 
@@ -82,6 +50,11 @@ This repository contains my solutions to various coding challenges. These soluti
 |-------------|------------------------------|------------------------------|
 |    Arrays    | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [ArraysLeftRotation.ts](https://github.com/punyawatdev/challenges/blob/main/InterviewPreparationKit/Arrays/ArraysLeftRotation.ts) |
 |    Arrays    | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem) | [HourglassSum.ts](https://github.com/punyawatdev/challenges/blob/main/InterviewPreparationKit/Arrays/HourglassSum.ts) |
+|    Arrays    | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) | [minimum_swaps.go](https://github.com/punyawatdev/challenges/blob/main/InterviewPreparationKit/Arrays/minimum_swaps.go) |
+
+
+|   Subject   |          Challenge           |           Solution           |
+|-------------|------------------------------|------------------------------|
 |    Warm-up    | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [JumpingOnClouds.ts](https://github.com/punyawatdev/challenges/blob/main/InterviewPreparationKit/Warm-up/JumpingOnClouds.ts) |
 |    Warm-up    | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [CountingValleys.ts](https://github.com/punyawatdev/challenges/blob/main/InterviewPreparationKit/Warm-up/CountingValleys.ts) |
 
